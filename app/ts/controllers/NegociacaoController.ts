@@ -27,7 +27,6 @@ adiciona(event: Event){
 		parseFloat(this._inputValor.value)
 	);
 
-	
 	this._negociacoes.adiciona(negociacao);
 
         // depois de adicionar, atualiza a view novamente para refletir os dados
