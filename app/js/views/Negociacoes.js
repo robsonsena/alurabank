@@ -1,6 +1,5 @@
 class Negociacoes {
     constructor() {
-        //Array< Negociacao>
         this._negociacoes = [];
     }
     adiciona(negociacao) {
